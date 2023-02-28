@@ -2,24 +2,27 @@
 
 ### Zewail City - LTS Team  
 <div align="center">
-<img src="https://www.zewailcity.edu.eg/media-library/new%20test/CIAU.png" align="center" style="width: 100%" />
+<img src="./images/CIAU Logo.png" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center"> Learning Technologies Services (LTS)</div>  
+### <div align="center"> Learning Technologies Services (LTS) Applications</div>  
   
 
-- ⁉️ Survey Management System [SMS](https://github.com/rishavanand/github-profilinator)  
+- ⁉️ Survey Management System Folder [SMS](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   
 
-- 📃 Petition Management System [PMS](https://github.com/rishavanand/github-profilinator)  
+- 📃 Petition Management System [PMS](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)  
   
 
-- 🎓 Academic Advising System [Advising](https://github.com/rishavanand/github-profilinator)  
+- 🎓 Academic Advising System [Advising](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)  
   
 
-- ⚡ Utilities  
-  
+- ⚡ Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
+
+
+- ⚡ Comming applications [Comming Soon...] (https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
+
 
 <br/>  
 
@@ -28,6 +31,12 @@
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
+<br/>  
+
+## Links  
+
+- PMS/SMS Issues sheet [link](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
+  
 <br/>  
 
 
@@ -93,12 +102,6 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
 
 <br/>  
 
