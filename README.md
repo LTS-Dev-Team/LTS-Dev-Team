@@ -1,13 +1,12 @@
 
 
-### Zewail City - LTS Team  
 <div align="center">
 <img src="./images/CIAU Logo.png" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center"> Learning Technologies Services (LTS) Applications</div>  
   
+
+## LTS Apps  
 
 - ⁉️ Survey Management System Folder [SMS](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   
