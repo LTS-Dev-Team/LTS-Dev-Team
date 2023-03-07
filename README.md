@@ -20,7 +20,9 @@
 - ⚡ Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
 
 
-- ⚡ Comming applications [Comming Soon...] (https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
+- ⚡ Comming applications [Comming Soon...](https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
+
+- ⚡ Old LT-System [Documenation Link](https://docs.google.com/spreadsheets/d/15fh9n3xTk-Pf4gXUNc4pcTecAnQaeqRuoGdsER_n-_8/edit?usp=sharing)
 
 
 <br/>  
@@ -107,10 +109,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
