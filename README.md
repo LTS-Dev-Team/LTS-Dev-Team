@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="./images/LT logo.jpg" align="right" width="500" height="200" />
 </div>   
@@ -11,40 +9,34 @@
   * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt) 
   
-  
-
 - 📃 **Petition Management System**
   * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)
   
-
 - 🎓 **Academic Advising System**
   * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
   
-
 - ⚡ Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
-
-
-- ⚡ Comming applications [Comming Soon...](https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
 
 - ⚡ Old LT-System [Documenation Link](https://docs.google.com/spreadsheets/d/15fh9n3xTk-Pf4gXUNc4pcTecAnQaeqRuoGdsER_n-_8/edit?usp=sharing)
 
+- ⚡ Comming applications [Comming soon...](https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
 
-<br/>  
+
 
 ## Progress & Files  
 - [LT Timeline](https://docs.google.com/spreadsheets/d/1EV_cW8RaPBSQz6sqC2W-jkZqbPrMSRAfNfAn4vyFB-A/edit?usp=sharing)
 
-<br/>  
 
 ## Links  
 
 - [PMS/SMS Issues sheet](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
 - [Contact Us Form (Responses)](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
 - [Registeration Request (Responses)](https://docs.google.com/spreadsheets/d/1luvPhsDIVQI9NHi6GJRkGjL7p2a04aRtAUolJowy_OQ/edit?usp=sharing)
+- [Development/Learnings](https://docs.google.com/spreadsheets/d/1Z5kZqJqvQQC5lH_TxZoy-zw-1PkqRxcqidMPEfeYn-c/edit?usp=sharing)
   
 <br/>  
 
