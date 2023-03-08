@@ -1,20 +1,28 @@
 
 
 <div align="center">
-<img src="./images/CIAU Logo.png" align="center" style="height: 50%, width: 50%" />
-</div>  
-  
-  
+<img src="./images/CIAU Logo.png" align="right" width="500" height="200" />
+</div>   
 
 ## LTS Apps  
 
-- ⁉️ Survey Management System Folder [SMS](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+- ⁉️ **Survey Management System** 
+  * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt) 
+  
   
 
-- 📃 Petition Management System [PMS](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)  
+- 📃 **Petition Management System**
+  * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)
   
 
-- 🎓 Academic Advising System [Advising](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)  
+- 🎓 **Academic Advising System**
+  * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
   
 
 - ⚡ Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
@@ -28,9 +36,7 @@
 <br/>  
 
 ## Progress & Files  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+- [LT Timeline](https://docs.google.com/spreadsheets/d/1EV_cW8RaPBSQz6sqC2W-jkZqbPrMSRAfNfAn4vyFB-A/edit?usp=sharing)
 
 <br/>  
 
