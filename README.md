@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="./images/CIAU Logo.png" align="center" style="width: 100%" />
+<img src="./images/CIAU Logo.png" align="center" style="height: 50%, width: 50%" />
 </div>  
   
   
@@ -37,6 +37,7 @@ If things goes well, this section should automatically be replaced by a list of 
 ## Links  
 
 - PMS/SMS Issues sheet [link](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
+- Contact Us Form (Responses). [link](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
   
 <br/>  
 
