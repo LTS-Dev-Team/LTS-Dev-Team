@@ -36,8 +36,9 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ## Links  
 
-- PMS/SMS Issues sheet [link](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
-- Contact Us Form (Responses). [link](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
+- [PMS/SMS Issues sheet](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
+- [Contact Us Form (Responses)](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
+- [Registeration Request (Responses)](https://docs.google.com/spreadsheets/d/1luvPhsDIVQI9NHi6GJRkGjL7p2a04aRtAUolJowy_OQ/edit?usp=sharing)
   
 <br/>  
 
