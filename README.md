@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="./images/CIAU Logo.png" align="right" width="500" height="200" />
+<img src="./images/LT logo.jpg" align="right" width="500" height="200" />
 </div>   
 
 ## LTS Apps  
