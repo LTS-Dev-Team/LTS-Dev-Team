@@ -43,7 +43,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
-## My Skill Set  
+## Team Skill  
 <table><tr><td valign="top" width="33%">
 
 
