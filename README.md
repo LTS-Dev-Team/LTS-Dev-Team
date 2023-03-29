@@ -34,7 +34,7 @@
 ## Links  
 
 - [PMS/SMS Issues sheet](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
-- [Advising Issues sheet](https://docs.google.com/spreadsheets/d/1ofjTAVzgL2jxsi4VwNtAPyjM3CDPdakefpbDBBLwAFg/edit?usp=sharing)
+- [Advising Issues sheet](https://docs.google.com/spreadsheets/d/1u9q3cE0YZmdHwO7F_RJYX1IQpExR4kNcWQxhkYWrjSU/edit?usp=sharing)
 - [Contact Us Form (Responses) "Petition"](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
 - [Contact Us Form (Responses)"Survey"](https://docs.google.com/spreadsheets/d/17avkplDGwGCn4ayarrp9K8xC8z9VK4hTRr-qVjjqKTI/edit?usp=sharing)
 - [Registeration Request (Responses)](https://docs.google.com/spreadsheets/d/1luvPhsDIVQI9NHi6GJRkGjL7p2a04aRtAUolJowy_OQ/edit?usp=sharing)
