@@ -4,26 +4,31 @@
 
 ## LTS Apps  
 
-- ⁉️ **Survey Management System** 
-  * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+- 📋 **Survey Management System** 
+  * [Project](https://github.com/users/LTS-Dev-Team/projects/8)  
   * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt) 
   
 - 📃 **Petition Management System**
-  * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Project](https://github.com/users/LTS-Dev-Team/projects/5)  
   * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)
   
 - 🎓 **Academic Advising System**
-  * [Project](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Project](https://github.com/users/LTS-Dev-Team/projects/10)  
   * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
   * [Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
   
-- ⚡ Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
+- 🛠️ **Administration System**
+  * [Project](https://github.com/users/LTS-Dev-Team/projects/9)  
+  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
+  
+- 📒 Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
 
-- ⚡ Old LT-System [Documenation Link](https://docs.google.com/spreadsheets/d/15fh9n3xTk-Pf4gXUNc4pcTecAnQaeqRuoGdsER_n-_8/edit?usp=sharing)
+- 🔖 Old LT-System [Documenation Link](https://docs.google.com/spreadsheets/d/15fh9n3xTk-Pf4gXUNc4pcTecAnQaeqRuoGdsER_n-_8/edit?usp=sharing)
 
-- ⚡ Comming applications [Comming soon...](https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
+- ⚡ Comming applications [Comming soon list...](https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841)  
 
 
 
