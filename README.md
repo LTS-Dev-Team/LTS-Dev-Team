@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/LT logo.jpg" align="right" width="500" height="200" />
+<img src="./images/ForSig.png" align="right" width="350" height="100" />
 </div>   
 
 ## LTS Apps  
@@ -21,7 +21,7 @@
   
 - 🛠️ **Administration System**
   * [Project](https://github.com/users/LTS-Dev-Team/projects/9)  
-  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://github.com/LTS-Dev-Team/LTS-AdministrationSystem)  
   * [Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
   
 - 📒 Utilities [Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)
