@@ -6,17 +6,17 @@
 
 - 📋 **Survey Management System** 
   * [Project](https://github.com/users/LTS-Dev-Team/projects/8)  
-  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://github.com/LTS-Dev-Team/LTS-SurveySystem)  
   * [Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt) 
   
 - 📃 **Petition Management System**
   * [Project](https://github.com/users/LTS-Dev-Team/projects/5)  
-  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://github.com/LTS-Dev-Team/LTS-PetitionManagementSystem)  
   * [Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)
   
 - 🎓 **Academic Advising System**
   * [Project](https://github.com/users/LTS-Dev-Team/projects/10)  
-  * [Repository](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  
+  * [Repository](https://github.com/LTS-Dev-Team/LTS-AcademicAdvising)  
   * [Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
   
 - 🛠️ **Administration System**
@@ -39,6 +39,7 @@
 ## Links  
 
 - [PMS/SMS Issues sheet](https://docs.google.com/spreadsheets/d/1-W2jjaLirlwKRF9pYJ-yAzlN_YWNvQapF_zDlMUfxoc/edit#gid=868346198) 
+- [New SMS Issues sheet](https://docs.google.com/spreadsheets/d/18X8rIyhe1kU_OQPlVviA1Td8HSYFnDVxfr4eKPDNB5c/edit?usp=sharing)
 - [Advising Issues sheet](https://docs.google.com/spreadsheets/d/1u9q3cE0YZmdHwO7F_RJYX1IQpExR4kNcWQxhkYWrjSU/edit?usp=sharing)
 - [Contact Us Form (Responses) "Petition"](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
 - [Contact Us Form (Responses)"Survey"](https://docs.google.com/spreadsheets/d/17avkplDGwGCn4ayarrp9K8xC8z9VK4hTRr-qVjjqKTI/edit?usp=sharing)
