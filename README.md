@@ -44,7 +44,7 @@
 - [Contact Us Form (Responses) "Petition"](https://docs.google.com/spreadsheets/d/1F1xbKzsw_qYQGz0tbiSmdA3vEvS75FrZGvxWC6G6skY/edit?usp=sharing)
 - [Contact Us Form (Responses)"Survey"](https://docs.google.com/spreadsheets/d/17avkplDGwGCn4ayarrp9K8xC8z9VK4hTRr-qVjjqKTI/edit?usp=sharing)
 - [Registeration Request (Responses)](https://docs.google.com/spreadsheets/d/1luvPhsDIVQI9NHi6GJRkGjL7p2a04aRtAUolJowy_OQ/edit?usp=sharing)
-- [Development/Learnings](https://docs.google.com/spreadsheets/d/1Z5kZqJqvQQC5lH_TxZoy-zw-1PkqRxcqidMPEfeYn-c/edit?usp=sharing){:target="_blank"} 
+- [Development/Learnings](https://docs.google.com/spreadsheets/d/1Z5kZqJqvQQC5lH_TxZoy-zw-1PkqRxcqidMPEfeYn-c/edit?usp=sharing)
   
 <br/>  
 
