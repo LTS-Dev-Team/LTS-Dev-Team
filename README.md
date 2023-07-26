@@ -2,14 +2,16 @@
 <img src="./images/ForSig.png" align="right" width="350" height="100" />
 </div>   
 
-## LTS Apps  
+## LTS Apps 
 
-- 📋 **Survey Management System** 
-  * [Project](https://github.com/users/LTS-Dev-Team/projects/8)  
-  * [Repository](https://github.com/LTS-Dev-Team/LTS-SurveySystem)  
-  * [Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt) 
+|     LTS Projects    |      LTS Projects                |      LTS Projects                | 
+|---------------------|----------------------------------|----------------------------------|
+| 📋 **Survey Management System (SMS)** | 📃 **Petition Management System (PMS)** | 🎓 **Academic Advising System (AMS)** |
+   [SMS Project](https://github.com/users/LTS-Dev-Team/projects/8)  |  [PMS Project](https://github.com/users/LTS-Dev-Team/projects/5) | [AMS Project](https://github.com/users/LTS-Dev-Team/projects/10) 
+   [SMS Repository](https://github.com/LTS-Dev-Team/LTS-SurveySystem)  | [PMS Repository](https://github.com/LTS-Dev-Team/LTS-PetitionManagementSystem) |[Repository](https://github.com/LTS-Dev-Team/LTS-AdministrationSystem)  
+  [SMS Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  |[PMS Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai) |[AMS Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)
   
-- 📃 **Petition Management System**
+| 📃 **Petition Management System** | 📃 **Petition Management System**|
   * [Project](https://github.com/users/LTS-Dev-Team/projects/5)  
   * [Repository](https://github.com/LTS-Dev-Team/LTS-PetitionManagementSystem)  
   * [Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai)
