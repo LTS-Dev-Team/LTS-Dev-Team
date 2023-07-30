@@ -8,16 +8,16 @@
   
 
 |    📉 **Survey Management System (SMS)**   |    📝**Petition Management System (PMS)**    |    🎓 **Academic Advising System (AMS)**     | 
-|--------------------------------------------|-----------------------------------------------|----------------------------------------------|
+|------------------------------------------|-------------------------------------------|----------------------------------------------|
  [SMS Project](https://github.com/users/LTS-Dev-Team/projects/8)  |  [PMS Project](https://github.com/users/LTS-Dev-Team/projects/5) | [AMS Project](https://github.com/users/LTS-Dev-Team/projects/10) 
    [SMS Repository](https://github.com/LTS-Dev-Team/LTS-SurveySystem)  | [PMS Repository](https://github.com/LTS-Dev-Team/LTS-PetitionManagementSystem) |[Repository](https://github.com/LTS-Dev-Team/LTS-AdministrationSystem)  
   [SMS Folder](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  |[PMS Folder](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai) |[AMS Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)|
-|-----------------------------------------------------|-------------------------------------------------|----------------------------------------|
+|------------------------------------------|-------------------------------------------|----------------------------------------------|
 |         🌐 **Zewail City website Backend**          |         🌐  **Zewail City website Frontend**           | 🛠️   **Administration System** |
 |[ZC website Backend Project](https://github.com/users/LTS-Dev-Team/projects/9)|[ZC website Front Project](https://github.com/users/LTS-Dev-Team/projects/9) |[Admin Project](https://github.com/users/LTS-Dev-Team/projects/9) |
 |[ZC website Backend Repository](https://github.com/LTS-Dev-Team/ZewailCity-Website-backend)|[ZC website Frontend Repository](https://github.com/LTS-Dev-Team/ZewailCity-Website-frontend)|[Admin Repository](https://github.com/LTS-Dev-Team/LTS-AdministrationSystem)| 
 |[ZC website Backend Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)|[ZC website Frontend Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)|[Admin Folder](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)|
-|-----------------------------------------------------|-------------------------------------------------|----------------------------------------|
+|------------------------------------------|-------------------------------------------|----------------------------------------------|
 |         📒 **Utilities**          |        🔖 **Old LT-System**           |  ⚡ **Comming applications** | 
 |[Utilities](https://drive.google.com/drive/folders/1YJvAiCHsuSHnCHLFfKTm5Qq39VXIEAAs)|[Documenation Link](https://docs.google.com/spreadsheets/d/15fh9n3xTk-Pf4gXUNc4pcTecAnQaeqRuoGdsER_n-_8/edit?usp=sharing)|[Comming soon list...](https://docs.google.com/spreadsheets/d/1JVEUM2t6IHlsV6d08SnEmWfVCq06nR2W0hr_lVkgCc4/edit#gid=891834841) | 
 </details>
