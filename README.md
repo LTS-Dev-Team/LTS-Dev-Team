@@ -7,7 +7,7 @@
 |    📉 **Survey Management System (SMS)**   |    📝**Petition Management System (PMS)**    |    🎓 **Academic Advising System (AMS)**     | 
 |------------------------------------------|-------------------------------------------|----------------------------------------------|
  [SMS Project](https://github.com/users/LTS-Dev-Team/projects/8)  |  [PMS Project](https://github.com/users/LTS-Dev-Team/projects/5) | [AMS Project](https://github.com/users/LTS-Dev-Team/projects/10) 
-   [SMS Repository](https://github.com/LTS-Dev-Team/LTS-SurveySystem)  | [PMS Repository](https://github.com/LTS-Dev-Team/LTS-PetitionManagementSystem) |[Repository](https://github.com/LTS-Dev-Team/LTS-AdministrationSystem)  
+   [SMS Repository](https://github.com/LTS-Dev-Team/LTS-ManagementSystems)  | [PMS Repository](https://github.com/LTS-Dev-Team/LTS-PetitionManagementSystem) |[Repository](https://github.com/LTS-Dev-Team/LTS-AdministrationSystem)  
   [SMS Folder(Documentation)](https://drive.google.com/drive/folders/1kKcI6vqH3f4HgBMg_qIFuBwEvI9YQSmt)  |[PMS Folder(Documentation)](https://drive.google.com/drive/folders/1BcFirKB8lHnIcCCcnGSbSS5KHqBF0Vai) |[AMS Folder(Documentation)](https://drive.google.com/drive/folders/1Ygm79ZiKUhJmwL_5IUj7HefFYN4CSi4i)|
   |------------------------------------------|-------------------------------------------|----------------------------------------------|
   |                  📉 **LTS Backend**             
