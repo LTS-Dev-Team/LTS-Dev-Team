@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/ForSig.png" align="right" width="350" height="100" />
+<img src="./images/LTS FINAL-03.png" align="right" width="280" height="100" />
 </div>   
 
 ## LTS Apps 
